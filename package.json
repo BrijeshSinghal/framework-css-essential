@@ -1,0 +1,14 @@
+{
+  "name": "framework-css-essential",
+  "version": "1.0.0",
+  "description": "a custom, barebones css framework",
+  "main": "app.js",
+  "scripts": {
+    "sass": "sass --watch ./scss:./dist/css"
+  },
+  "author": "Brijesh Singhal",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.49.0"
+  }
+}
